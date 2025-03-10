@@ -3,12 +3,23 @@
 ## 🚀 Project Overview
 EcoRide is a Web3-powered sustainable mobility platform that incentivizes eco-friendly travel through **Green Coins**, a blockchain-based reward system. By integrating **Solana blockchain technology**, real-time **carbon emission tracking**, and a **reward mechanism**, EcoRide transforms everyday commuting into an **environmentally impactful** experience.
 
+![image](https://github.com/user-attachments/assets/35dfe0ea-93e5-444a-bbd0-c98c8b612a6a)
+
 ## 🎯 Core Objectives
 - **Reward Mechanism:** Earn **1 Green Coin per kilometer** for using eco-friendly transportation.
 - **Carbon Emission Meter:** Real-time tracking of **carbon savings** through ride-sharing.
 - **Environmental Impact:** **Plant 1 tree for every 50 Green Coins** collected.
 - **User Engagement:** Personalized insights through a **Green Impact Dashboard**.
 - **Blockchain Integration:** Use **Solana** for secure transactions and **carbon credit management**.
+
+---
+
+## 📽️ Demo Video
+
+
+![image](https://github.com/user-attachments/assets/3ebe39d5-c880-4df3-b81d-e7dfcf75d2be)
+
+https://drive.google.com/file/d/1FvTAfmvNAB0mJ12M7aVKhIsOFzCcLzEY/view?usp=drive_link
 
 ---
 
